@@ -2,9 +2,12 @@
 <br>
 <h3 align="center">Turning ideas into code, one commit at a time.</h3>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marinacarvalhoti&label=Profile%20views&color=0e75b6&style=flat" alt="marinacarvalhoti" /> </p>
+<br>
 
 🌱 I’m currently learning:    **1st Year of Multiplatform Application Development in Spain**
 <br>
+
 
 🌍 Languages
 > **🗣️ Native Languages**: Portuguese 🇧🇷,
@@ -35,3 +38,5 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <br>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p><br>
+
+
