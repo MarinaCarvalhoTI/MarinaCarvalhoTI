@@ -2,7 +2,8 @@
 <br>
 <h3 align="center">Turning ideas into code, one commit at a time.</h3>
 <br>
-🌱 I’m currently learning **1st Year of Multiplatform Application Development in Spain**
+
+🌱 I’m currently learning:    **1st Year of Multiplatform Application Development in Spain**
 <br>
 
 🌍 Languages
